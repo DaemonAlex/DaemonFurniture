@@ -1,4 +1,4 @@
-# DaemonFurniture
+# DaemonFurniture  WIP 
 Furniture Store and Manufacturing Business for QBX/QB core
 
 # Furniture Store System for OBX-core
