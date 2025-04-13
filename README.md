@@ -1,7 +1,7 @@
 # DaemonFurniture  WIP 
 Furniture Store and Manufacturing Business for QBX/QB core
 
-# Furniture Store System for OBX-core
+# Furniture Store System for qb-core
 
 A comprehensive furniture store system for OBX-core that features both a buyer-side catalog and a builder-side order queue. Buyers can browse available furniture items with pictures and prices by interacting with a store prop using **ox_target** and **ox_lib**. Builders can view pending orders and mark them as complete, with the entire process being managed via server-side order tracking.
 
